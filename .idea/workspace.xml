@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b2997be-9b6a-4d74-ba15-604a85269656" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/TEST-PADSearchRequestWithExchange.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/TEST-PADSearchRequestWithExchangeRefund.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/TEST-PADSearchRequestWithRefund.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/TEST-SWSResponseDuped.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/PADComplexSearchRequest.xml" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/TEST-PADComplexSearchRequest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/PADSearchAccountCodeRequest.xml" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/TEST-PADSearchAccountCodeRequest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/PADSearchCurrencyRequest.xml" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/TEST-PADSearchCurrencyRequest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/PADSearchPrivateFaresRequest.xml" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/TEST-PADSearchPrivateFaresRequest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/PADSearchPrivatePublicFaresRequest.xml" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/TEST-PADSearchPrivatePublicFaresRequest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/PADSearchRequest.xml" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/TEST-PADSearchRequest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/PADSearchVariableNumberOfResponsesRequest.xml" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/TEST-PADSearchVariableNumberOfResponsesRequest.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/SWSResponse.xml" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/TEST-SWSResponse.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/config/sessionmanager-configuration.yml" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/config/sessionmanager-configuration.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-common/src/main/java/com/expedia/supply/air/provideradapter/sabre/common/utilities/mapping/helpers/CommonMappingHelper.java" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-common/src/main/java/com/expedia/supply/air/provideradapter/sabre/common/utilities/mapping/helpers/CommonMappingHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-common/src/test/java/com/expedia/supply/air/provideradapter/sabre/common/utilities/mapping/helpers/CommonMappingHelperTest.java" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-common/src/test/java/com/expedia/supply/air/provideradapter/sabre/common/utilities/mapping/helpers/CommonMappingHelperTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ForwardMappingHelper.java" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ForwardMappingHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ReverseMappingHelper.java" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ReverseMappingHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ForwardMappingHelperTest.java" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ForwardMappingHelperTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ReverseMappingHelperTest.java" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ReverseMappingHelperTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ValidationTest.java" afterPath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ValidationTest.java" />
+    </list>
+    <ignored path="egencia.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/test-automation/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sws-spoofer/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-entities/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-dal/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-interface/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-core/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/configuration-provider/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-common/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-toolkit/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sws-entities/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-bl/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-common/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-entities/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/AirTestFramework/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/AncillaryServiceTest/target/" />
+    <ignored path="$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/SabrePadServiceTest/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="false" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="egencia" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ReverseMappingHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ReverseMappingHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="774" column="80" selection-start-line="774" selection-start-column="80" selection-end-line="774" selection-end-column="80" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComparisonTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ComparisonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37">
+              <caret line="56" column="46" selection-start-line="56" selection-start-column="46" selection-end-line="56" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/search/SearchMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ForwardMappingHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ForwardMappingHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11951">
+              <caret line="773" column="0" selection-start-line="773" selection-start-column="0" selection-end-line="773" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#4059#4060#0" expanded="false" />
+                <element signature="e#4090#4091#0" expanded="false" />
+                <element signature="e#9970#9971#0" expanded="false" />
+                <element signature="e#10000#10001#0" expanded="false" />
+                <element signature="e#35831#35856#0" expanded="false" />
+                <element signature="e#37767#37794#0" expanded="false" />
+                <element signature="e#41934#41942#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonMappingHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-common/src/main/java/com/expedia/supply/air/provideradapter/sabre/common/utilities/mapping/helpers/CommonMappingHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/config/sessionmanager-configuration.yml" />
+        <option value="$PROJECT_DIR$/src/XmlTest.java" />
+        <option value="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/src/swsRes.xml" />
+        <option value="$PROJECT_DIR$/src/PricedItineraryType.java" />
+        <option value="$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/SabrePadServiceTest/src/main/resources/com/expedia/test/search/SearchCriteria_XML.xml" />
+        <option value="$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/SabrePadServiceTest/src/main/resources/com/expedia/test/search/OD_XML.xml" />
+        <option value="$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/SabrePadServiceTest/pom.xml" />
+        <option value="$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/AirTestFramework/pom.xml" />
+        <option value="$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/SabrePadServiceTest/testng.xml" />
+        <option value="$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/SabrePadServiceTest/src/main/resources/com/expedia/test/search/TestData_Search.xml" />
+        <option value="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/TEST-SWSResponse.xml" />
+        <option value="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/search/SearchMapper.java" />
+        <option value="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/TEST-SWSResponseDuped.xml" />
+        <option value="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ReverseMappingHelperTest.java" />
+        <option value="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ForwardMappingHelper.java" />
+        <option value="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ReverseMappingHelper.java" />
+        <option value="$PROJECT_DIR$/src/ComparisonTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="egencia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="egencia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ideaprojects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="egencia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ideaprojects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/SabrePadServiceTest" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15372297" />
+    <property name="project.structure.side.proportion" value="0.4382658" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/lib" />
+    <property name="SearchEverywhereHistoryKey" value="enso&#9;ACTION&#9;ActivateEnsoToolWindow" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\a-5590\workspace\ideaprojects\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ComparisonTest">
+    <configuration default="false" name="ComparisonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ComparisonTest" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="egencia" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="xmlunit-1.2.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/xmlunit-1.2.jar" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ReverseMappingHelperTest.getSWSSearchResponseType_deDeduped" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.expedia.supply.air.provideradapter.sabre.core.search.helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="provideradapter-core" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.expedia.supply.air.provideradapter.sabre.core.search.helper" />
+      <option name="MAIN_CLASS_NAME" value="com.expedia.supply.air.provideradapter.sabre.core.search.helper.ReverseMappingHelperTest" />
+      <option name="METHOD_NAME" value="getSWSSearchResponseType_deDeduped" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" value="" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="ReverseMappingHelperTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.expedia.supply.air.provideradapter.sabre.core.search.helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="provideradapter-core" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.expedia.supply.air.provideradapter.sabre.core.search.helper" />
+      <option name="MAIN_CLASS_NAME" value="com.expedia.supply.air.provideradapter.sabre.core.search.helper.ReverseMappingHelperTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" value="" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method>
+        <option name="Make" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="egencia" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SbtRunConfiguration" factoryName="SBT Task">
+      <setting name="tasks" value="" />
+      <setting name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled -XX:MaxPermSize=256M" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" value="" />
+      <envs />
+      <properties />
+      <listeners />
+      <method>
+        <option name="Make" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="sabrepad" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Remote.sabrepad" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ComparisonTest" />
+      <item index="2" class="java.lang.String" itemvalue="JAR Application.xmlunit-1.2.jar" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.ReverseMappingHelperTest.getSWSSearchResponseType_deDeduped" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.ReverseMappingHelperTest" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.ComparisonTest" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.ReverseMappingHelperTest.getSWSSearchResponseType_deDeduped" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.ReverseMappingHelperTest" />
+        <item index="3" class="java.lang.String" itemvalue="JAR Application.xmlunit-1.2.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b2997be-9b6a-4d74-ba15-604a85269656" name="Default" comment="" />
+      <created>1457427236933</created>
+      <option name="number" value="Default" />
+      <updated>1457427236933</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ReverseMappingHelperTest - 2016.03.10 at 14h 11m 56s.xml">
+      <configuration name="ReverseMappingHelperTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReverseMappingHelperTest_getSWSSearchResponseType_deDeduped - 2016.03.10 at 13h 56m 03s.xml">
+      <configuration name="ReverseMappingHelperTest.getSWSSearchResponseType_deDeduped" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReverseMappingHelperTest_getSWSSearchResponseType_deDeduped - 2016.03.10 at 13h 56m 57s.xml">
+      <configuration name="ReverseMappingHelperTest.getSWSSearchResponseType_deDeduped" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReverseMappingHelperTest_getSWSSearchResponseType_deDeduped - 2016.03.10 at 13h 57m 24s.xml">
+      <configuration name="ReverseMappingHelperTest.getSWSSearchResponseType_deDeduped" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReverseMappingHelperTest_getSWSSearchResponseType_deDeduped - 2016.03.10 at 14h 05m 19s.xml">
+      <configuration name="ReverseMappingHelperTest.getSWSSearchResponseType_deDeduped" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReverseMappingHelperTest_getSWSSearchResponseType_deDeduped - 2016.03.10 at 14h 07m 06s.xml">
+      <configuration name="ReverseMappingHelperTest.getSWSSearchResponseType_deDeduped" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReverseMappingHelperTest_getSWSSearchResponseType_deDeduped - 2016.03.10 at 14h 08m 38s.xml">
+      <configuration name="ReverseMappingHelperTest.getSWSSearchResponseType_deDeduped" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReverseMappingHelperTest_getSWSSearchResponseType_deDeduped - 2016.03.10 at 14h 08m 50s.xml">
+      <configuration name="ReverseMappingHelperTest.getSWSSearchResponseType_deDeduped" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReverseMappingHelperTest_getSWSSearchResponseType_deDeduped - 2016.03.10 at 14h 09m 06s.xml">
+      <configuration name="ReverseMappingHelperTest.getSWSSearchResponseType_deDeduped" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReverseMappingHelperTest_getSWSSearchResponseType_deDeduped - 2016.03.10 at 14h 13m 31s.xml">
+      <configuration name="ReverseMappingHelperTest.getSWSSearchResponseType_deDeduped" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32801822" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Enso" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44892812" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21298406" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32801822" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3621868" sideWeight="0.49722221" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Enso" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40546697" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32801822" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25398633" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/SabrePadServiceTest/src/main/Scala/com/expedia/test/search/regression/SearchTest.scala</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ReverseMappingHelper.java</url>
+          <line>1279</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ReverseMappingHelperTest.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ReverseMappingHelperTest.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="70" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/xmlunit/xmlunit/1.2/xmlunit-1.2.jar!/org/custommonkey/xmlunit/DetailedDiff.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_09/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="973" column="19" selection-start-line="973" selection-start-column="19" selection-end-line="973" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/swsRes.xml" />
+    <entry file="file://$PROJECT_DIR$/src/PricedItineraryType.java" />
+    <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sws-entities/src/main/java/org/opentravel/ota/_2003/_05/PricedItineraryType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="154" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="1488" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_09/src.zip!/org/w3c/dom/NodeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_09/src.zip!/org/w3c/dom/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="189" column="13" selection-start-line="189" selection-start-column="13" selection-end-line="189" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_09/src.zip!/com/sun/org/apache/xerces/internal/dom/DeepNodeListImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124">
+          <caret line="76" column="23" selection-start-line="76" selection-start-column="15" selection-end-line="76" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_09/src.zip!/org/w3c/dom/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="721" column="18" selection-start-line="721" selection-start-column="18" selection-end-line="721" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/opentravel/ota/_2003/_05/PricedItinerariesType.java" />
+    <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/interfaces/FilterInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/BaseMessageProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="69" column="44" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/interfaces/MapperInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/expedia/com.expedia.supply.provider.air.flightinfo.v1/1.1.0/com.expedia.supply.provider.air.flightinfo.v1-1.1.0.jar!/expedia/supply/provider/air/v1/ProductReferenceType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_09/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="247" column="32" selection-start-line="247" selection-start-column="32" selection-end-line="247" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/expedia/com.expedia.supply.provider.air.flightinfo.v1/1.1.0/com.expedia.supply.provider.air.flightinfo.v1-1.1.0.jar!/expedia/supply/provider/air/v1/ProductReferenceListType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sws-entities/src/main/java/org/opentravel/ota/_2003/_05/OTAAirLowFareSearchRS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="3258" column="24" selection-start-line="3258" selection-start-column="24" selection-end-line="3258" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/SabrePadServiceTest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/AirTestFramework/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/SabrePadServiceTest/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="8" selection-end-line="9" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/SabrePadServiceTest/src/main/resources/com/expedia/test/search/OD_XML.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15282">
+          <caret line="852" column="24" selection-start-line="852" selection-start-column="24" selection-end-line="852" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/SabrePadServiceTest/src/main/resources/com/expedia/test/search/SearchCriteria_XML.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="943" column="29" selection-start-line="943" selection-start-column="4" selection-end-line="943" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.5/testng-6.8.5-sources.jar!/org/testng/internal/Invoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="731" column="0" selection-start-line="731" selection-start-column="0" selection-end-line="731" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/SabrePadServiceTest/src/main/java/com/expedia/test/requestfactory/search/SearchRequestBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="139" column="0" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/SabrePadServiceTest/src/main/Scala/com/expedia/test/search/regression/SearchTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="37" column="76" selection-start-line="37" selection-start-column="63" selection-end-line="37" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/SabrePadServiceTest/src/main/resources/com/expedia/test/search/TestData_Search.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/duplicateSolutions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492156">
+          <caret line="27342" column="0" selection-start-line="27342" selection-start-column="0" selection-end-line="27342" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_09/src.zip!/java/io/RandomAccessFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_09/src.zip!/java/nio/file/attribute/FileAttribute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_09/src.zip!/java/nio/file/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="585" column="17" selection-start-line="585" selection-start-column="17" selection-end-line="585" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/allSolutions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/uniqueSolutions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="29605" column="85" selection-start-line="29605" selection-start-column="85" selection-end-line="29605" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/expedia/com.expedia.supply.provider.air.flightinfo.v1/1.1.0/com.expedia.supply.provider.air.flightinfo.v1-1.1.0.jar!/expedia/supply/provider/air/v1/TravelerFareMapType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="60" column="32" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/MergeSWSSearchResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/expedia/com.expedia.supply.provider.air.flightinfo.v1/1.1.0/com.expedia.supply.provider.air.flightinfo.v1-1.1.0.jar!/expedia/supply/provider/air/v1/SearchResultType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/expedia/com.expedia.supply.provider.air.flightinfo.v1/1.1.0/com.expedia.supply.provider.air.flightinfo.v1-1.1.0.jar!/expedia/supply/provider/air/v1/FareType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="119" column="32" selection-start-line="119" selection-start-column="32" selection-end-line="119" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-interface/src/main/java/com/expedia/supply/air/provideradapter/sabre/appinterface/SabreProviderAdapterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_09/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="148" column="19" selection-start-line="148" selection-start-column="19" selection-end-line="148" selection-end-column="19" />
+          <folding>
+            <element signature="e#5860#5861#0" expanded="false" />
+            <element signature="e#5896#5897#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/expedia/com.expedia.supply.provider.air.flightinfo.v1/1.1.0/com.expedia.supply.provider.air.flightinfo.v1-1.1.0.jar!/expedia/supply/provider/air/v1/CurrencyAmountType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-toolkit/src/main/java/com/expedia/supply/air/provideradapter/sabre/toolkit/CustomSoftAssert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/airavail/helper/ReverseMappingHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/TEST-SWSResponse.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="44" column="61" selection-start-line="0" selection-start-column="0" selection-end-line="33695" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/resources/Search/TEST-SWSResponseDuped.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="317" column="41" selection-start-line="317" selection-start-column="41" selection-end-line="317" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/test/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ReverseMappingHelperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="68" column="20" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="20" />
+          <folding>
+            <element signature="e#1344#1345#0" expanded="false" />
+            <element signature="e#1394#1395#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/expedia/com.expedia.supply.provider.air.flightinfo.v1/1.1.0/com.expedia.supply.provider.air.flightinfo.v1-1.1.0.jar!/expedia/supply/provider/air/v1/FareRestrictionListType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-common/src/main/java/com/expedia/supply/air/provideradapter/sabre/common/utilities/mapping/helpers/CommonMappingHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ForwardMappingHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11951">
+          <caret line="773" column="0" selection-start-line="773" selection-start-column="0" selection-end-line="773" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4059#4060#0" expanded="false" />
+            <element signature="e#4090#4091#0" expanded="false" />
+            <element signature="e#9970#9971#0" expanded="false" />
+            <element signature="e#10000#10001#0" expanded="false" />
+            <element signature="e#35831#35856#0" expanded="false" />
+            <element signature="e#37767#37794#0" expanded="false" />
+            <element signature="e#41934#41942#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/search/SearchMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/src/main/java/com/expedia/supply/air/provideradapter/sabre/core/search/helper/ReverseMappingHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="774" column="80" selection-start-line="774" selection-start-column="80" selection-end-line="774" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComparisonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="56" column="46" selection-start-line="56" selection-start-column="46" selection-end-line="56" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>egencia</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4382658" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>xmlunit-1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4382658" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

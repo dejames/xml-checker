@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: expedia:com.expedia.s3.air.ancillary.messages.getancillary.v1:1.0.3.836208">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/expedia/com.expedia.s3.air.ancillary.messages.getancillary.v1/1.0.3.836208/com.expedia.s3.air.ancillary.messages.getancillary.v1-1.0.3.836208.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/expedia/com.expedia.s3.air.ancillary.messages.getancillary.v1/1.0.3.836208/com.expedia.s3.air.ancillary.messages.getancillary.v1-1.0.3.836208-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/expedia/com.expedia.s3.air.ancillary.messages.getancillary.v1/1.0.3.836208/com.expedia.s3.air.ancillary.messages.getancillary.v1-1.0.3.836208-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

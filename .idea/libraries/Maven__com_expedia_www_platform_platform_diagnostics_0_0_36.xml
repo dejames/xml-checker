@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.expedia.www.platform:platform-diagnostics:0.0.36">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/expedia/www/platform/platform-diagnostics/0.0.36/platform-diagnostics-0.0.36.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/expedia/www/platform/platform-diagnostics/0.0.36/platform-diagnostics-0.0.36-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/expedia/www/platform/platform-diagnostics/0.0.36/platform-diagnostics-0.0.36-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

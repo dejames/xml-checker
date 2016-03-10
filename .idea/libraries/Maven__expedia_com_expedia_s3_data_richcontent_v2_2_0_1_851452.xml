@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: expedia:com.expedia.s3.data.richcontent.v2:2.0.1.851452">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/expedia/com.expedia.s3.data.richcontent.v2/2.0.1.851452/com.expedia.s3.data.richcontent.v2-2.0.1.851452.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/expedia/com.expedia.s3.data.richcontent.v2/2.0.1.851452/com.expedia.s3.data.richcontent.v2-2.0.1.851452-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/expedia/com.expedia.s3.data.richcontent.v2/2.0.1.851452/com.expedia.s3.data.richcontent.v2-2.0.1.851452-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

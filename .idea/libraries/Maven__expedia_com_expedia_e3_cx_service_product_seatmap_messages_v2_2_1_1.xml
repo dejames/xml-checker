@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: expedia:com.expedia.e3.cx.service.product.seatmap.messages.v2:2.1.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/expedia/com.expedia.e3.cx.service.product.seatmap.messages.v2/2.1.1/com.expedia.e3.cx.service.product.seatmap.messages.v2-2.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/expedia/com.expedia.e3.cx.service.product.seatmap.messages.v2/2.1.1/com.expedia.e3.cx.service.product.seatmap.messages.v2-2.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/expedia/com.expedia.e3.cx.service.product.seatmap.messages.v2/2.1.1/com.expedia.e3.cx.service.product.seatmap.messages.v2-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

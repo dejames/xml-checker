@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.expedia.air.supply.commons.logging.crslogging:crslogging-logback-extension:1.0.962">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/expedia/air/supply/commons/logging/crslogging/crslogging-logback-extension/1.0.962/crslogging-logback-extension-1.0.962.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/expedia/air/supply/commons/logging/crslogging/crslogging-logback-extension/1.0.962/crslogging-logback-extension-1.0.962-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/expedia/air/supply/commons/logging/crslogging/crslogging-logback-extension/1.0.962/crslogging-logback-extension-1.0.962-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

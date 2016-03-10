@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.expedia.air.supply.flights.commons:air-supply-flights-commons-net:0.85">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/expedia/air/supply/flights/commons/air-supply-flights-commons-net/0.85/air-supply-flights-commons-net-0.85.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/expedia/air/supply/flights/commons/air-supply-flights-commons-net/0.85/air-supply-flights-commons-net-0.85-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/expedia/air/supply/flights/commons/air-supply-flights-commons-net/0.85/air-supply-flights-commons-net-0.85-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

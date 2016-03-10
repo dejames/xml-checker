@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/AirTestFramework/AirTestFramework.iml" filepath="$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/AirTestFramework/AirTestFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/AirTestFramework-Parent.iml" filepath="$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/AirTestFramework-Parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/AncillaryServiceTest/AncillaryServiceTest.iml" filepath="$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/AncillaryServiceTest/AncillaryServiceTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/SabrePadServiceTest/SabrePadServiceTest.iml" filepath="$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/SabrePadServiceTest/SabrePadServiceTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-interface/SabreProviderAdapterService.iml" filepath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-interface/SabreProviderAdapterService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/configuration-provider/configuration-provider.iml" filepath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/configuration-provider/configuration-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egencia.iml" filepath="$PROJECT_DIR$/egencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-common/provideradapter-common.iml" filepath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-common/provideradapter-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/provideradapter-core.iml" filepath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core/provideradapter-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-entities/provideradapter-entities.iml" filepath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-entities/provideradapter-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-parent.iml" filepath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/test-automation/provideradapter-parent.test-automation.iml" filepath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/test-automation/provideradapter-parent.test-automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-toolkit/provideradapter-toolkit.iml" filepath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-toolkit/provideradapter-toolkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-bl/sessionmanager-bl.iml" filepath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-bl/sessionmanager-bl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-common/sessionmanager-common.iml" filepath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-common/sessionmanager-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-core/sessionmanager-core.iml" filepath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-core/sessionmanager-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-dal/sessionmanager-dal.iml" filepath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-dal/sessionmanager-dal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-entities/sessionmanager-entities.iml" filepath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-entities/sessionmanager-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-parent.iml" filepath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sws-entities/sws-entities.iml" filepath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sws-entities/sws-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sws-spoofer/sws-spoofer.iml" filepath="$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sws-spoofer/sws-spoofer.iml" />
+    </modules>
+  </component>
+</project>

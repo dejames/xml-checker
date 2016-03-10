@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="provideradapter-common,sessionmanager-parent,sessionmanager-bl,sessionmanager-core,provideradapter-toolkit,sws-spoofer,sessionmanager-entities,provideradapter-parent.test-automation,provideradapter-entities,configuration-provider,sessionmanager-dal,sws-entities,sessionmanager-common,provideradapter-core,SabreProviderAdapterService,provideradapter-parent,SabrePadServiceTest,AncillaryServiceTest,AirTestFramework-Parent,AirTestFramework" />
+  </component>
+</project>

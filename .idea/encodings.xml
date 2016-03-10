@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/AirTestFramework" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../egencia/AirInterfaceTestCollection/AirTestFramework-Parent/AncillaryServiceTest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/configuration-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-entities" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/provideradapter-toolkit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-bl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-dal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sessionmanager-parent/sessionmanager-entities" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sws-entities" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/sws-spoofer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../egencia/Sabre-Provider-Adapter/test-automation" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
