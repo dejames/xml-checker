@@ -28,13 +28,10 @@ import javax.xml.transform.stream.StreamResult;
 
 public class ComparisonTest {
 
-    private static final String ALL_SOLUTIONS_TXT = "allSolutions.txt";
-    private static final String UNIQUE_SOLUTIONS_TXT = "uniqueSolutions.txt";
-    private static final String DUPLICATE_SOLUTIONS_TXT = "duplicateSolutions.txt";
-    private static final String RESOURCES_ALL_SOLUTIONS_TXT = "resources/" + ALL_SOLUTIONS_TXT;
-    private static final String RESOURCES_UNIQUE_SOLUTIONS_TXT = "resources/" + UNIQUE_SOLUTIONS_TXT;
-    private static final String RESOURCES_DUPLICATE_SOLUTIONS_TXT = "resources/" + DUPLICATE_SOLUTIONS_TXT;
-    private static final String INPUT_XML = "resources/input.xml";
+    private static final String RESOURCES_ALL_SOLUTIONS_TXT = "D:\\workspace\\personal\\xml-checker\\resources\\allSolutions.txt";
+    private static final String RESOURCES_UNIQUE_SOLUTIONS_TXT = "D:\\workspace\\personal\\xml-checker\\resources\\uniqueSolutions.txt";
+    private static final String RESOURCES_DUPLICATE_SOLUTIONS_TXT = "D:\\workspace\\personal\\xml-checker\\resources\\duplicateSolutions.txt";
+    private static final String INPUT_XML = "D:\\workspace\\personal\\xml-checker\\resources\\input.xml";
     private static final String ROOT_ELEMENT = "ProductReference";
 
 
@@ -59,12 +56,12 @@ public class ComparisonTest {
                     Node node = pricedItineraries.item(i);
                     String xml = toString(node).substring(38);
                     listOfXmls.add(xml);
-                    writeToFile(xml, ALL_SOLUTIONS_TXT);
+                    writeToFile(xml, RESOURCES_ALL_SOLUTIONS_TXT);
                     if (hashSetOfXmls.add(xml)) {
-                        writeToFile(xml, UNIQUE_SOLUTIONS_TXT);
+                        writeToFile(xml, RESOURCES_UNIQUE_SOLUTIONS_TXT);
                     } else {
                         listOfDuplicates.add(xml);
-                        writeToFile(xml, DUPLICATE_SOLUTIONS_TXT);
+                        writeToFile(xml, RESOURCES_DUPLICATE_SOLUTIONS_TXT);
                     }
                 }
                 System.out.println("Total size of list:\t\t " + listOfXmls.size());
@@ -110,7 +107,7 @@ public class ComparisonTest {
 
     private static void writeToFile(String xml, String fileName) {
         try {
-            Files.write(Paths.get("resources/" + fileName), xml.getBytes(), StandardOpenOption.APPEND);
+            Files.write(Paths.get(fileName), xml.getBytes(), StandardOpenOption.APPEND);
         } catch (IOException e) {
 
         }
